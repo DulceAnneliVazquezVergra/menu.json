@@ -1,0 +1,24 @@
+{
+    "nombre": "Menú",
+    "platos": [
+      {
+        "nombre": "Hamburguesa",
+        "descripcion": "Doble carne,tocino.queso amarillo,papas,tomate",
+        "precio": 70,
+        "imagen": "hamburguesa.jpg"
+         
+      },
+      {
+        "nombre": "Enchiladas",
+        "descripcion": "pollo,queso,crema,lechuga,rabanos, tomate,rojas,verdes",
+        "precio": 100
+      },
+      {
+        "nombre": "Plato 3",
+        "descripcion": "Descripción del plato 3",
+        "precio": 7.99
+      }
+    ]
+  }
+  
+    
